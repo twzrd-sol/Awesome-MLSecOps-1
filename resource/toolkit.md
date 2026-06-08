@@ -52,3 +52,5 @@
 - [Agentic Security](https://github.com/msoedov/agentic_security), LLM vulnerability scanner and AI red teaming kit  
 - [ModelScan](https://github.com/protectai/modelscan), Protection Against ML Model Serialization Attacks
 - [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard), AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz), On-chain behavioral trust scoring MCP server for ML/AI agents on Solana. Verify AI agent wallet identity before granting access to sensitive ML security operations. Provides x402-gated cryptographic trust receipts for agent-to-agent attestation in MLSecOps pipelines. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
